@@ -282,9 +282,9 @@ Aplikasi akan berjalan di [http://localhost:3000](http://localhost:3000)
 
 ## Lisensi
 
-Aplikasi ini dilisensikan di bawah [MIT License](LICENSE).
+Aplikasi ini dilisensikan di bawah MIT License.
 
-Copyright (c) 2024 Adimology.
+Copyright (c) 2026 Bhakti Utama.
 
 Izin diberikan, secara gratis, kepada siapa pun yang mendapatkan salinan perangkat lunak ini untuk menggunakannya tanpa batasan, termasuk hak untuk menggunakan, menyalin, memodifikasi, menggabungkan, menerbitkan, mendistribusikan, menyisipkan lisensi, dan/atau menjual salinan perangkat lunak ini. 
 
